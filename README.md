@@ -3,5 +3,5 @@ Based On Easytabs Code Only Design Changes
 * Istratman
 
 
-In The Feature I Will Launch On Tabs Named FireTabs
+In The Feature I Will Launch My Own Tabs Named FireTabs
 For FireBrowser(https://github.com/jarno9981/FireBrowser)
